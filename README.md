@@ -1,1 +1,1 @@
-# csharp_calc
+simple command line calculator written in c#
