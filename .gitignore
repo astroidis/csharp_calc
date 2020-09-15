@@ -1,2 +1,4 @@
-bin
-obj
+Calculator\obj
+Calculator\bin
+CalculatorTest\obj
+CalculatorTest\bin
